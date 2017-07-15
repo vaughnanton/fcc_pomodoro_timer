@@ -1,1 +1,45 @@
-initialize css file
+header {
+  text-align:center;
+  margin-bottom:50px;
+}
+
+
+body {
+  color:black;
+  text-align:center;
+  font-family: Caveat, Times New Roman, Sans Serif;
+  font-size:2em;
+  background-color:grey;
+  background-image:url(http://isamunsa.org/img/bg/desk-blur.jpg);
+  background-size:cover;
+}
+
+.nums {
+  font-weight:bolder;
+}
+
+.addmin {
+  width:auto;
+  font-family: Caveat, Times New Roman, Sans Serif;
+  font-size:.5em;
+  background-color:grey;
+  opacity:.8;
+}
+
+.action {
+  background-color:grey;
+  opacity:.8;
+  font-family: Caveat, Times New Roman, Sans Serif;
+  font-size:.5em;
+  width:auto;
+}
+
+.timer {
+  display:flex;
+  justify-content:center;
+  margin-bottom:35px;
+}
+
+.reset {
+  margin-bottom:20px;
+}

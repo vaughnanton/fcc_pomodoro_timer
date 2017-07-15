@@ -1,1 +1,53 @@
-initialize html file
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Caveat" rel="stylesheet">
+
+  </head>
+  <body>
+    <div class="container">
+    <header>Pomodoro Clock</header>
+      <div class="row">
+    <div class="col-2">
+      <button class="btn addmin float-right" id="minusSes">-</button>
+        </div>
+        <div class="col-2">
+          <div class="nums" id="session">25</div>
+        </div>
+         <div class="col-2">
+      <button class="btn addmin float-left" id="plusSes">+</button>
+        </div>
+        <div class="col-2">
+    <button class="btn addmin float-right" id="minusBre">-</button>
+      </div>
+       <div class="col-2">
+         <div class= "nums" id="break">5</div>
+      </div>
+       <div class="col-2">
+    <button class="btn addmin float-left" id="plusBre">+</button>
+      </div>
+      </div>
+          <div class="row">
+          <div class="col-6">
+    <p class="def">Session Length</p>
+          </div>
+            <div class="col-6">
+    <p class="def">Break Length</p>
+          </div>
+          </div>
+
+      <div class="timer" id="clock"></div>
+        <div class="row">
+          <div class="col-5">
+          <button class="btn action float-right" id="startSession">start session</button>
+          </div>
+          <div class="col-2">
+          <button class="btn action reset" id="resetTimer">reset</button>
+          </div>
+          <div class="col-5">
+          <button class="btn action float-left" id="startBreak">take a break</button>
+          </div>
+        </div>
+    </div>
+  </body>
+</html>
