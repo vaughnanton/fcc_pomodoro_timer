@@ -1,5 +1,5 @@
 A productivity/pomodoro timer made for CodeCamp's "Advanced Front End" projects.
 
-The app can be seen at the following links:
+The app can be seen at the following link:
 
-https://codepen.io/vaughnanton/pen/eWdxBr ||| https://vaughnanton.github.io/fcc_pomodoro_timer/ (flipclock api not working; will be remedied when flipclock site is back up)
+https://codepen.io/vaughnanton/pen/eWdxBr
