@@ -3,6 +3,9 @@ The Pomodoro Technique is a time management system that uses a timer to break do
 Use the demo [here](https://codepen.io/vaughnanton/pen/eWdxBr)!
 
 Languages: HTML, CSS, JavaScript
+
 Libraries: jQuery
+
 Frameworks: Bootstrap
+
 APIs: [Flipclock.js](http://flipclockjs.com/)
